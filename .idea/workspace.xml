@@ -4,22 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2212c177-f7a8-47eb-812c-97d186bb83f3" name="Changes" comment="">
+    <list default="true" id="2212c177-f7a8-47eb-812c-97d186bb83f3" name="Changes" comment="JDBCLessons2">
+      <change afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/resources/haibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/73e4a424-0b34-434d-ad3d-12b751831cd3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/73e4a424-0b34-434d-ad3d-12b751831cd3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/73e4a424-0b34-434d-ad3d-12b751831cd3/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/73e4a424-0b34-434d-ad3d-12b751831cd3/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/jdbcAndHibernate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/jdbcAndHibernate.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/dao/UserDao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/dao/UserDaoHibernateImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/dao/UserDaoHibernateImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/dao/UserDaoJdbcImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/dao/UserDaoJdbcImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/service/UserService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/service/UserServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/util/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/util/Util.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/test/java/peaksoft/UserServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/test/java/peaksoft/UserServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/target/classes/peaksoft/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/target/classes/peaksoft/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/target/classes/peaksoft/dao/UserDaoHibernateImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/target/classes/peaksoft/dao/UserDaoHibernateImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/target/classes/peaksoft/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/target/classes/peaksoft/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/target/classes/peaksoft/service/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/target/classes/peaksoft/service/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/target/classes/peaksoft/util/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/target/classes/peaksoft/util/Util.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="1" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,7 +52,9 @@
     <property name="DatabaseDriversLRU" value="postgresql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
   </component>
   <component name="RunManager" selected="JUnit.UserServiceTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -124,8 +137,8 @@
       <list>
         <item itemvalue="JUnit.UserServiceTest" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.UserServiceTest.saveUser" />
         <item itemvalue="JUnit.UserServiceTest.getAllUsers" />
+        <item itemvalue="JUnit.UserServiceTest.saveUser" />
         <item itemvalue="JUnit.UserServiceTest.dropUsersTable" />
       </list>
     </recent_temporary>
@@ -142,8 +155,27 @@
       <workItem from="1642775254324" duration="5134000" />
       <workItem from="1642797654026" duration="2505000" />
       <workItem from="1642843274537" duration="21054000" />
-      <workItem from="1642933426055" duration="3077000" />
+      <workItem from="1642933426055" duration="3517000" />
+      <workItem from="1643012626319" duration="82000" />
+      <workItem from="1643023493132" duration="3449000" />
+      <workItem from="1643032867328" duration="2447000" />
+      <workItem from="1643101795343" duration="8710000" />
+      <workItem from="1643197020856" duration="8538000" />
+      <workItem from="1643209079173" duration="5661000" />
+      <workItem from="1643228881325" duration="588000" />
+      <workItem from="1643275886479" duration="1338000" />
+      <workItem from="1643283632534" duration="592000" />
+      <workItem from="1643285033565" duration="16000" />
+      <workItem from="1643357166731" duration="1936000" />
     </task>
+    <task id="LOCAL-00001" summary="JDBCLessons1">
+      <created>1643012191772</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643012191772</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +193,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="JDBCLessons1" />
+    <option name="LAST_COMMIT_MESSAGE" value="JDBCLessons1" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -168,6 +204,10 @@
           <properties class="java.lang.NullPointerException" package="java.lang" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/org/junit/Test.class</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -178,16 +218,16 @@
     <SUITE FILE_PATH="coverage/JDBCAndHibernateTask$UserServiceTest_removeUserById.ic" NAME="UserServiceTest.removeUserById Coverage Results" MODIFIED="1642858285238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>peaksoft.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/JDBCAndHibernateTask$UserServiceTest_cleanUsersTable.ic" NAME="UserServiceTest.cleanUsersTable Coverage Results" MODIFIED="1642858302370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/JDBCAndHibernateTask$UserServiceTest_cleanUsersTable.ic" NAME="UserServiceTest.cleanUsersTable Coverage Results" MODIFIED="1643204619640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>peaksoft.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/JDBCAndHibernateTask$UserServiceTest_getAllUsers.ic" NAME="UserServiceTest.getAllUsers Coverage Results" MODIFIED="1643011109506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/JDBCAndHibernateTask$UserServiceTest_getAllUsers.ic" NAME="UserServiceTest.getAllUsers Coverage Results" MODIFIED="1643208673285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>peaksoft.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/JDBCAndHibernateTask$UserServiceTest.ic" NAME="UserServiceTest Coverage Results" MODIFIED="1643011985187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/JDBCAndHibernateTask$UserServiceTest.ic" NAME="UserServiceTest Coverage Results" MODIFIED="1643210229821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>peaksoft.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/JDBCAndHibernateTask$UserServiceTest_saveUser.ic" NAME="UserServiceTest.saveUser Coverage Results" MODIFIED="1643011138942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/JDBCAndHibernateTask$UserServiceTest_saveUser.ic" NAME="UserServiceTest.saveUser Coverage Results" MODIFIED="1643207670223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>peaksoft.*</FILTER>
     </SUITE>
   </component>
